@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prattlestar
 - 👀 I’m interested in Space Science, Programming and Software Development.
 - 🌱 I’m currently learning Java, Python, Angular and Node.
-- 💞️ I’m looking to collaborate on company projects.
+- 💞️ I’m looking to learn, share, collaborate and grow.
 - 📫 How to reach me: shivom.shandilya@yahoo.in
 
 <!---
